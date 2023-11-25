@@ -1,4 +1,4 @@
-# hacks-ai-2023
+# hacks-ai-2023 | Processing video recording of transport
 
 Project for hacks-ai competition. The goal is to calculate average speed and count of some vehicles using video from camera.
 
